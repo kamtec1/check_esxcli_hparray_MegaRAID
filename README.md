@@ -1,3 +1,10 @@
+RAID checker - ESXI 7/8 . StorCLI with MegaRAID Controllers supported . HPe g10 g11
+
+P.S.
+
+1. Need to update the key and esxcli with thumb
+2. The VIB neeeded to be installed or install via ESXI offical image HPE - https://support.hpe.com/connect/s/softwaredetails?language=en_US&collectionId=MTX-4899e6b54e3941a4&tab=revisionHistory
+
 Example:
 
 HPe Gen 8/9 
