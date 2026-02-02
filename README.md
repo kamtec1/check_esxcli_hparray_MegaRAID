@@ -111,6 +111,9 @@ TERSE_OUTPUT=0 SHOW_HOST=1 ./check_esxi_raid65 -h 10.10.10.20 -u nagios
 RAID OK (MegaRAID) - All 1 Virtual Drives Optimal (VD0/238:Optimal) - 10.10.10.20
 ```
 
+check_esxcli_hparray_MegaRAID
+check_hparray_MegaRAID
+
 ## License
 
 GPL v2.0 (see script headers).
